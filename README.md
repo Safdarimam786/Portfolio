@@ -1,7 +1,6 @@
 # CODSOFT_Portfolio
 
 
-Level 1 Task 2 GitHub Link: https://github.com/Safdarimam786/CODSOFT_Portfolio/tree/main
 
 # OUTPUT
 ![responsive-personal-portfolio-website-design-tutorail](https://github.com/Safdarimam786/CODSOFT_Portfolio/assets/105650552/7bff94b3-8f61-4120-8863-71f7fa0599a9)
